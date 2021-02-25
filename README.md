@@ -1,4 +1,4 @@
-# शतरंज
+
 
 * Player vs Player chess game built using PyGame 
 
